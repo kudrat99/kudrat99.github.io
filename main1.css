@@ -1,0 +1,47 @@
+.header{
+	background: #000;
+	height: 150px;
+	border-radius: 10px;
+}
+.header p{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	padding-top:60px;
+	color: #fff; 
+	font-family: arial;
+	font-size: 23px;
+}
+
+
+.first{
+	margin-top: 50px;
+}
+.first_info{
+	width: 250px;
+	font-size: 17px;
+}
+footer{
+	height: 150px;
+}
+
+.home{
+	display: block;
+font-size: 25px;
+text-transform: uppercase;
+background: #000;
+text-align: center;
+font-weight: 800;
+width: 350px;
+padding:20px,0;
+color: #fff;
+text-decoration: none;
+height: 60px;
+margin: 0 auto;
+padding-top: 13px;
+margin-top: 50px;
+	}
+
+.watch{
+	display: block;
+}
